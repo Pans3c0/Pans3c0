@@ -46,8 +46,6 @@ Soy un desarrollador de software con un perfil híbrido. Por un lado, domino la 
 
 ### 📊 Mis Estadísticas en GitHub
 
-> He actualizado el tema de las tarjetas a `tokyonight` para que tengan un aspecto oscuro moderno y unificado. He añadido también el widget de "Racha de contribuciones".
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pans3c0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
   
