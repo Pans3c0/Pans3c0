@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pans3c0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
-  
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pans3c0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pans3c0&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
+</p>
